@@ -1,0 +1,3 @@
+settings = {'server_smtp': {'gmail': 'smtp.gmail.com',
+                            'hotmail': 'smtp.live.com',
+                            'office365': 'smtp.office365.com'}}
