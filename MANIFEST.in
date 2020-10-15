@@ -1,2 +1,1 @@
-include ap_e_mail/settings.json
-include ap_e_mail/NAP.jpg
+include n_e_mail/settings.json

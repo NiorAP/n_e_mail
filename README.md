@@ -17,8 +17,8 @@ pip install git+https://github.com/NiorAP/ap_e_mail.git
 
 ## Example
 ```python
-from ap_e_mail import EmailMessage
-from ap_e_mail import EMailServer
+from n_e_mail import EmailMessage
+from n_e_mail import EMailServer
 
 # Create E-mail object
 message = EmailMessage("E-mail's subject")
