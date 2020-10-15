@@ -12,7 +12,7 @@ Python package use to send text, file via E-Mail
 
 ## Install Library
 ```shell script
-pip install git+https://github.com/NiorAP/ap_e_mail.git
+pip install git+https://github.com/NiorAP/n_e_mail.git
 ```
 
 ## Example
